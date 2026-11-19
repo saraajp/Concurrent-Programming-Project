@@ -1,5 +1,4 @@
 # Concurrent-Programming-Project
-This is a project I did for my Concurrent Programming class
 
 This project applies filters to any .jpeg images in a directory specified by the user.
 
